@@ -6,24 +6,29 @@ This is a flagship DSA learning series by Tathastu enabled by Twowaits. This is 
 
 # Topics
 
-- [Arrays](https://github.com/rishabh115/InterviewQuestions/blob/master/Expedia/README.md)
+- [Arrays](https://github.com/twowaits/DSAByTathastu/tree/main/Arrays/Readme.md)
 
-- [Stack](https://github.com/rishabh115/InterviewQuestions/blob/master/Grab/README.md)
+- [Stack](https://github.com/twowaits/DSAByTathastu/tree/main/Stack/Readme.md)
 
-- [Queue](https://github.com/rishabh115/Interview-Questions/blob/master/MobiKwik/README.md)
+- [Queue](https://github.com/twowaits/DSAByTathastu/tree/main/Queue/Readme.md)
 
-- [LinkedList](https://github.com/rishabh115/InterviewQuestions/blob/master/NEC%20Technologies/README.md)
+- [LinkedList](https://github.com/twowaits/DSAByTathastu/tree/main/LinkedList/Readme.md)
 
-- [Tree](https://github.com/rishabh115/InterviewQuestions/blob/master/PayPal/README.md)
+- [Tree](https://github.com/twowaits/DSAByTathastu/tree/main/Tree/Readme.md)
 
-- [Graph](https://github.com/rishabh115/InterviewQuestions/blob/master/Samsung/README.md)
+- [Graph](https://github.com/twowaits/DSAByTathastu/tree/main/Graph/Readme.md)
 
-- [Advanced Data Structure](https://github.com/rishabh115/InterviewQuestions/blob/master/Uber/README.md)
+- [Advanced Data Structure](https://github.com/twowaits/DSAByTathastu/tree/main/Advanced%20Data%20Structure)
 
-- [Asymptotic Analysis](https://github.com/rishabh115/InterviewQuestions/blob/master/Yatra.com/README.md)
+- [Asymptotic Analysis](https://github.com/twowaits/DSAByTathastu/tree/main/Asymptotic%20Analysis)
 
-- [Sorting](https://github.com/rishabh115/InterviewQuestions/blob/master/Zomato/README.md)
+- [Sorting](https://github.com/twowaits/DSAByTathastu/tree/main/Sorting)
 
+- [Searching](https://github.com/twowaits/DSAByTathastu/tree/main/Searching)
+
+- [Beginner Algorithms](https://github.com/twowaits/DSAByTathastu/tree/main/Beginner%20Algorithms)
+
+- [Advance Algorithms](https://github.com/twowaits/DSAByTathastu/tree/main/Advance%20Algorithms)
 
 
 
