@@ -2,7 +2,7 @@
 
 This is a flagship DSA learning series by Tathastu enabled by Twowaits. This is a community of 2500+ DSA enthusiasts all across the country connected through 15+ whatsapp groups. This repository provides you an exhaustive list of resources you would ever need while learning DSA. 
 
-If you like daily practice, active community and regualr discussions join us on our whatsapp group [here](https://chat.whatsapp.com/FB48KLoCBurID2p7ZIr929). 
+If you like to daily practice, become part of an active community and have regular discussions join us on our whatsapp group [here](https://chat.whatsapp.com/FB48KLoCBurID2p7ZIr929). 
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 
