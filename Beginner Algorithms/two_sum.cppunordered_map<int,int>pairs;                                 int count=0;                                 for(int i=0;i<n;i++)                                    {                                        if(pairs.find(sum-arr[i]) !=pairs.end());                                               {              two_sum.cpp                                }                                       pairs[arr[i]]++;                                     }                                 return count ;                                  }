@@ -1,0 +1,12 @@
+                               unordered_map<int,int>pairs;
+                                int count=0;
+                                for(int i=0;i<n;i++)
+                                   {
+                                       if(pairs.find(sum-arr[i]) !=pairs.end());
+                                              { 
+                                               count+=pairs[sum-arr[i]];// for arrays with repeated elements 
+                                              }
+                                      pairs[arr[i]]++;
+                                    }
+                                return count ;
+                                 }              
